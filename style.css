@@ -1,0 +1,22 @@
+
+body {
+    margin: 3rem 5rem 0;
+}
+hr {
+    height: 4px; background-color: black; border: none;
+}
+h3 {
+    color: #2F9E44;
+    margin-bottom: 0.7rem;
+}
+h4{
+    color: #2176C4;
+    margin-bottom:0;
+    margin-top: 0;
+}
+h2{
+    color: #2F9E44;
+}
+p, ul{
+    margin: 0.4rem;
+}
