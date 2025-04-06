@@ -1,22 +1,24 @@
-
 body {
-    margin: 3rem 5rem 0;
+  margin: 3rem 5rem 0;
 }
 hr {
-    height: 4px; background-color: black; border: none;
+  height: 4px;
+  background-color: black;
+  border: none;
 }
 h3 {
-    color: #2F9E44;
-    margin-bottom: 0.7rem;
+  color: #2f9e44;
+  margin-bottom: 0.7rem;
 }
-h4{
-    color: #2176C4;
-    margin-bottom:0;
-    margin-top: 0;
+h4 {
+  color: #2176c4;
+  margin-bottom: 0;
+  margin-top: 0;
 }
-h2{
-    color: #2F9E44;
+h2 {
+  color: #2f9e44;
 }
-p, ul{
-    margin: 0.4rem;
+p,
+ul {
+  margin: 0.4rem;
 }
